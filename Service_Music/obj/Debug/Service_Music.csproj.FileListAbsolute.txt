@@ -1,0 +1,6 @@
+C:\Users\Moreno\Documents\Visual Studio 2015\Projects\Service_Music\Service_Music\bin\Service_Music.dll.config
+C:\Users\Moreno\Documents\Visual Studio 2015\Projects\Service_Music\Service_Music\bin\Service_Music.dll
+C:\Users\Moreno\Documents\Visual Studio 2015\Projects\Service_Music\Service_Music\bin\Service_Music.pdb
+C:\Users\Moreno\Documents\Visual Studio 2015\Projects\Service_Music\Service_Music\obj\Debug\Service_Music.csprojResolveAssemblyReference.cache
+C:\Users\Moreno\Documents\Visual Studio 2015\Projects\Service_Music\Service_Music\obj\Debug\Service_Music.dll
+C:\Users\Moreno\Documents\Visual Studio 2015\Projects\Service_Music\Service_Music\obj\Debug\Service_Music.pdb
